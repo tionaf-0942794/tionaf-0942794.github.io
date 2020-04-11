@@ -1,0 +1,9 @@
+#floating {
+    float: right;
+    color: red;
+}
+
+#round {
+    width: 200px;
+    border-radius: 10%;
+}
